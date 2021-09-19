@@ -94,7 +94,7 @@
                     made with italian sauce,chicken,and organice vegetables.
                 </p>
                 <br>
-                <a href="#" class = "btn btn-primary">Order Now</a>
+                <a href="oder.php" class = "btn btn-primary">Order Now</a>
             </div>
 </div>
             <div class="food-menu-box">
@@ -108,7 +108,7 @@
                     made with italian sauce,chicken,and organice vegetables.
                 </p>
                 <br>
-                <a href="#" class = "btn btn-primary">Order Now</a>
+                <a href="oder.php" class = "btn btn-primary">Order Now</a>
             </div>
 </div>
             <div class="food-menu-box">
@@ -122,7 +122,7 @@
                     made with italian sauce,chicken,and organice vegetables.
                 </p>
                 <br>
-                <a href="#" class = "btn btn-primary">Order Now</a>
+                <a href="oder.php" class = "btn btn-primary">Order Now</a>
             </div>
 </div>
             <div class="food-menu-box">
@@ -136,7 +136,7 @@
                     made with italian sauce,chicken,and organice vegetables.
                 </p>
                 <br>
-                <a href="#" class = "btn btn-primary">Order Now</a>
+                <a href="oder.php" class = "btn btn-primary">Order Now</a>
             </div>
 </div>
             <div class="food-menu-box">
@@ -150,7 +150,7 @@
                     made with italian sauce,chicken,and organice vegetables.
                 </p>
                 <br>
-                <a href="#" class = "btn btn-primary">Order Now</a>
+                <a href="oder.php" class = "btn btn-primary">Order Now</a>
             </div>
 </div>
             <div class="food-menu-box">
@@ -164,7 +164,7 @@
                     made with italian sauce,chicken,and organice vegetables.
                 </p>
                 <br>
-                <a href="#" class = "btn btn-primary">Order Now</a>
+                <a href="oder.php" class = "btn btn-primary">Order Now</a>
             </div>
 </div>
         <div class="clearfix"></div>
